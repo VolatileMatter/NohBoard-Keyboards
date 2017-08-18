@@ -1,0 +1,72 @@
+{
+  "Elements": [
+    {
+      "__type": "MouseKey",
+      "Id": 25,
+      "Boundaries": [
+        {
+          "X": 3,
+          "Y": 90
+        },
+        {
+          "X": 79,
+          "Y": 90
+        },
+        {
+          "X": 79,
+          "Y": 133
+        },
+        {
+          "X": 3,
+          "Y": 133
+        }
+      ],
+      "KeyCodes": [ 0 ],
+      "Text": "LMB",
+      "TextPosition": {
+        "X": 41,
+        "Y": 112
+      }
+    },
+    {
+      "__type": "MouseKey",
+      "Id": 26,
+      "Boundaries": [
+        {
+          "X": 80,
+          "Y": 90
+        },
+        {
+          "X": 156,
+          "Y": 90
+        },
+        {
+          "X": 156,
+          "Y": 133
+        },
+        {
+          "X": 80,
+          "Y": 133
+        }
+      ],
+      "KeyCodes": [ 1 ],
+      "Text": "RMB",
+      "TextPosition": {
+        "X": 118,
+        "Y": 112
+      }
+    },
+    {
+      "__type": "MouseSpeedIndicator",
+      "Id": 27,
+      "Location": {
+        "X": 80,
+        "Y": 45
+      },
+      "Radius": 40
+    }
+  ],
+  "Height": 135,
+  "Version": 2,
+  "Width": 159
+}
