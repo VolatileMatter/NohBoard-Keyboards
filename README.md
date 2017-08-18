@@ -4,6 +4,6 @@ https://obsproject.com/forum/resources/nohboard.44/ is the project these are des
 
 ## Currently done:
 * [x] League of Legends 
-* [x] Mouse Accelerometer
+* [x] Mouse only
 
 *NohBoard Keyboard JSON layout file video game for streaming obs*
